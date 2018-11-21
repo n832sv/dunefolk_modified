@@ -1,6 +1,7 @@
 ## Current list of changes includes:
 
-|unit|change|
+|unit   |change   |
+|-------|-------|
 |Djinn| new unit (chaotic)|
 |Dust Devil| new unit (currently disabled)|
 |Spearman| lvl1 new unit (currently disabled)|
